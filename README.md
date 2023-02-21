@@ -11,7 +11,7 @@
 
 <h2>Perfil Pessoal</h2>
 <p>Sou um desenvolvedor web com capacidade
-para programar no front-end e no back-end e atualmente desenvolvo também aplicativos.Sempre estou com grande interesse em aprender mais tecnologias e aperfeiçoar as que já domino. Esse perfil tem o objetivo de mostrar minha capacidade para trabalhar nas possiveis oportunidade e mostrar que estou pronto para sempre encarar novos
+para programar no front-end e no back-end e atualmente desenvolvo também aplicativos.Sempre estou com grande interesse em aprender mais tecnologias e aperfeiçoar as que já domino. Esse perfil tem o objetivo de mostrar minha capacidade para trabalhar nas possiveis oportunidades e mostrar que estou pronto para sempre encarar novos
 desafios e por consequência ir progredindo na minha carreira.
 </p>
 
